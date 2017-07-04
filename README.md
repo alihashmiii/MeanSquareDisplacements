@@ -4,7 +4,8 @@ a simple script to determine MSD from multiple particle trajectories
 How to compute from rawdata:
 
 `msd = MSDtraj("C:\\academic\\codes and scripts\\brownian simulation of nodal lefty\\3dcheck\\res",10,['t','x','y','z'],0.000001);`
-args are as follows: directory, number of files (trajectories), dimensions, smallest time-step, timeCMSD = 1000 (pts to consider))
+
+**args are as follows: directory, number of files (trajectories), dimensions, smallest time-step, timeCMSD = 1000 (pts to consider))**
 
 `msddata,stddata = msd.main()`
 
