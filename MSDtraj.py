@@ -14,7 +14,7 @@ class MSDtraj:
         self.coords = coords
         self.timestep = timestep
 
-    # trajectory for a particle as a dataframe
+    # importing trajectory
     def importtraj(self,num,delimiter =' '):
             lencoords = len(self.coords)
             d = [] # stores data from the text file
