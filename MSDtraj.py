@@ -2,8 +2,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 
-""" at the end we should get the mean square displacement of the particle trajectories
-if one particle then a single MSD and if multiple particles then the mean of all MSDS
+""" at the end we should get the mean square displacement of the particle trajectories;
+if multiple particles are present then assume the mean of all MSDs
 """
 class MSDtraj:
 
