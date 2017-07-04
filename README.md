@@ -1,7 +1,7 @@
 # MSDfromMultipleTrajectories
 a simple script to determine MSD from multiple particle trajectories
 
-How to compute from rawdata:
+How to compute from rawdata (see the txt file):
 
 `msd = MSDtraj("C:\\academic\\codes and scripts\\brownian simulation of nodal lefty\\3dcheck\\res",10,['t','x','y','z'],0.000001);`
 
