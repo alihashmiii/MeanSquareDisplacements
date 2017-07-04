@@ -1,7 +1,7 @@
 # MSDfromMultipleTrajectories
 a simple script to determine MSD from multiple particle trajectories
 
-with substantial help from: https://stackoverflow.com/questions/32988269/speedup-msd-calculation-in-python
+a part of MSD code borrowed from: https://stackoverflow.com/questions/32988269/speedup-msd-calculation-in-python
 
 How to compute from rawdata (see the txt file):
 
