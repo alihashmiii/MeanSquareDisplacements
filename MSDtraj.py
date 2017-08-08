@@ -53,8 +53,7 @@ class MSDtraj:
 
     ## main import trajectories, calculate composed MSD and STD
     def main(self):
-        MSDlist = []
-        STDlist = []
+        MSDlist,STDlist = [],[]
         for num in range(1, self.filenum + 1):
             traj = self.importtraj(num)
             msd = self.compute_msd(traj)
