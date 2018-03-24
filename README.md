@@ -1,6 +1,6 @@
 # MSDfromMultipleTrajectories
 
-@author: Ali Hashmi
+`@author: Ali Hashmi`
 
 a simple script to determine Mean-Squared Displacements (MSD) from multiple particle trajectories
 
