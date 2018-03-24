@@ -1,9 +1,10 @@
 # MSDfromMultipleTrajectories
-a simple script to determine MSD from multiple particle trajectories
+a simple script to determine Mean-Squared Displacements (MSD) from multiple particle trajectories
 
-a part of MSD code borrowed from: https://stackoverflow.com/questions/32988269/speedup-msd-calculation-in-python
+a part of the MSD code is borrowed from: https://stackoverflow.com/questions/32988269/speedup-msd-calculation-in-python
 
-How to compute from rawdata (see the txt file):
+
+See the txt file on how to compute from rawdata:
 
 `msd = MSDtraj("C:\\academic\\codes and scripts\\brownian simulation of nodal lefty\\3dcheck\\res",10,['t','x','y','z'],0.000001);`
 
