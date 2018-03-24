@@ -1,4 +1,7 @@
 # MSDfromMultipleTrajectories
+
+@author: Ali Hashmi
+
 a simple script to determine Mean-Squared Displacements (MSD) from multiple particle trajectories
 
 a part of the MSD code is borrowed from: https://stackoverflow.com/questions/32988269/speedup-msd-calculation-in-python
